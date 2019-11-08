@@ -3,7 +3,7 @@
   <groupId>Adivina</groupId>
   <artifactId>AdivinaNumero</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <exec.mainClass>AdivinApp</exec.mainClass>
+  <exec.mainClass>Main</exec.mainClass>
   <properties>
 		<maven.compiler.target>11</maven.compiler.target>
 		<maven.compiler.source>11</maven.compiler.source>
